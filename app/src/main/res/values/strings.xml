@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScaleVideo</string>
+    <string name="welcome_text">Enter RTSP URL here:</string>
+
+</resources>
